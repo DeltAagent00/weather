@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_input_city">Город</string>
+    <string name="btn_action">Показать погоду</string>
+
+    <string name="temperature">Температура</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="pressure">Давление</string>
+
+    <string name="temperature_value">%.1f \u2103</string>
+    <string name="humidity_value">%d%%</string>
+    <string name="wind_speed_value">%.1f м/с</string>
+    <string name="pressure_value">%.1f мм рт. ст.</string>
+</resources>
