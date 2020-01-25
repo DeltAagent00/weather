@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">weather</string>
+    <string name="app_name" translatable="false">Weather</string>
+    <string name="url_icon" translatable="false">https://openweathermap.org/img/wn/%s@2x.png</string>
+
+    <string name="hint_input_city">City</string>
+    <string name="btn_action">Show weather</string>
+
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="pressure">Pressure</string>
+
+    <string name="temperature_value">%.1f \u2103</string>
+    <string name="humidity_value">%d%%</string>
+    <string name="wind_speed_value">%.1f m/s</string>
+    <string name="pressure_value">%.1f mmHg</string>
 </resources>
